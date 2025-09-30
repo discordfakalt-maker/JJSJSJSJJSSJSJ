@@ -1,15 +1,15 @@
-# 🌑 PLUTOHOT - Cyber Arsenal Bot 🔥
+# 🌑 PLUTOBOT - Cyber Arsenal Bot 🔥
 
 ## 🎉 TRASFORMAZIONE COMPLETA!
 
-Il bot è stato completamente trasformato da ChatUnity/PlutoBot a **PLUTOHOT**!
+
 
 ### ✅ Cosa è cambiato:
 
 1. **Nuovo Nome e Branding**
-   - Nome: `🌑 PLUTOHOT`
+   - Nome: `🌑 PLUTOBOT`
    - Versione: 1.0
-   - Credits: "QUESTO BOT É STATI CREATO DA D CON MARIO E GLI ALTRI"
+   - Credits: "QUESTO BOT É STATI CREATO DA X JOLLY NOAH DAVIDE ETC
 
 2. **Nuovo Prefix**
    - Vecchio: `!`
@@ -62,7 +62,7 @@ Il bot è stato completamente trasformato da ChatUnity/PlutoBot a **PLUTOHOT**!
 
 ## 🚀 Come Avviare il Bot
 
-### Metodo 1: Shell Replit
+### Metodo 1: Shell 
 ```bash
 node index.js
 ```
@@ -85,7 +85,7 @@ pm2 logs
 2. Scansiona il QR Code che appare con WhatsApp
 3. Il bot si connetterà automaticamente
 4. Inizia a usare i comandi con il prefix `/`
-
+5. devo conquistare miriam la amo
 ## 🔥 Esempio Utilizzo
 
 ```
@@ -108,9 +108,4 @@ Il bot è configurato per WhatsApp e non apre porte web. La workflow Replit si a
 - Tutti aggiornati con il nuovo branding PlutoHot!
 
 ## 💎 Credits
-
-**QUESTO BOT É STATI CREATO DA D CON MARIO E GLI ALTRI**
-
----
-
-🔥 PLUTOHOT - Sistema Avanzato di Analisi e Sicurezza 🌑
+X numero: +98 919 775 8816
