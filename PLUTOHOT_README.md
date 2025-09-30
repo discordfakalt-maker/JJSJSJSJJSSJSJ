@@ -12,7 +12,6 @@
    - Credits: "QUESTO BOT É STATI CREATO DA X JOLLY NOAH DAVIDE ETC
 
 2. **Nuovo Prefix**
-   - Vecchio: `!`
    - Nuovo: `/`
 
 3. **Folder Reorganizzati**
