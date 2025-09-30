@@ -156,4 +156,4 @@ Per supporto o domande:
 
 ---
 
-**ChatUnity Bot v7.2** - Il miglior bot WhatsApp italiano! 🇮🇹
+m
